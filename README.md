@@ -1,0 +1,1 @@
+# cps-cardano-open-metadata-schema
